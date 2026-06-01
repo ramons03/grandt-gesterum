@@ -1,0 +1,18 @@
+{
+  "generated_at_utc": "2026-06-01T02:14:00.015180+00:00",
+  "weeks": 0,
+  "totals": {
+    "leads_new": 0,
+    "meetings_booked": 0,
+    "demos_done": 0,
+    "proposals_sent": 0,
+    "won": 0,
+    "lost": 0,
+    "mrr_new": 0.0
+  },
+  "rates": {
+    "proposal_to_win": 0.0,
+    "demo_to_proposal": 0.0,
+    "meeting_to_demo": 0.0
+  }
+}

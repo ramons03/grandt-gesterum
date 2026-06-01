@@ -21,3 +21,8 @@ Centralizar ejecucion tecnica reproducible para:
    - Ejecucion
    - Verificacion
    - Rollback
+
+## Referencia de planes comerciales
+Para ejecucion de ingresos, usar en paralelo:
+- `/mnt/extra/devprojects/gesterum-revenue-plans`
+- Repo: `https://github.com/ramons03/gesterum-revenue-plans`

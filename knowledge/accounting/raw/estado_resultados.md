@@ -3,7 +3,7 @@
 - source_id: estado_resultados
 - topic: estados_financieros
 - url: https://es.wikipedia.org/wiki/Estado_de_resultados
-- extracted_at_utc: 2026-06-01T02:06:23.310688+00:00
+- extracted_at_utc: 2026-06-01T02:09:39.911179+00:00
 
 En , el , o , es un que muestra ordenada y detalladamente la forma de cómo se obtuvo el resultado del ejercicio durante un periodo determinado.
 El estado de resultados es un estado financiero en el cual se representa la información relativa de los logros alcanzados por la administración de una empresa durante un tiempo determinado; asimismo hace notar los esfuerzos que se realizaron para dichos logros.

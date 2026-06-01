@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-06-01T02:06:23.310688+00:00",
-  "total_sources": 5,
+  "generated_at_utc": "2026-06-01T02:09:39.911179+00:00",
+  "total_sources": 12,
   "items": [
     {
       "id": "contabilidad_intro",
@@ -33,6 +33,16 @@
       "file": "raw/libro_diario.md"
     },
     {
+      "id": "libro_mayor",
+      "topic": "libros_contables",
+      "url": "https://es.wikipedia.org/wiki/Libro_mayor",
+      "status": "ok",
+      "title": "Libro mayor - Wikipedia, la enciclopedia libre",
+      "text_chars": 6673,
+      "error": null,
+      "file": "raw/libro_mayor.md"
+    },
+    {
       "id": "balance_general",
       "topic": "estados_financieros",
       "url": "https://es.wikipedia.org/wiki/Balance_general",
@@ -51,6 +61,66 @@
       "text_chars": 5673,
       "error": null,
       "file": "raw/estado_resultados.md"
+    },
+    {
+      "id": "estado_flujo_efectivo",
+      "topic": "estados_financieros",
+      "url": "https://es.wikipedia.org/wiki/Estado_de_flujo_de_efectivo",
+      "status": "ok",
+      "title": "Estado de flujo de efectivo - Wikipedia, la enciclopedia libre",
+      "text_chars": 7415,
+      "error": null,
+      "file": "raw/estado_flujo_efectivo.md"
+    },
+    {
+      "id": "activo_pasivo_patrimonio",
+      "topic": "fundamentos",
+      "url": "https://es.wikipedia.org/wiki/Patrimonio_neto",
+      "status": "ok",
+      "title": "Patrimonio neto - Wikipedia, la enciclopedia libre",
+      "text_chars": 7039,
+      "error": null,
+      "file": "raw/activo_pasivo_patrimonio.md"
+    },
+    {
+      "id": "amortizacion",
+      "topic": "ajustes",
+      "url": "https://es.wikipedia.org/wiki/Amortizaci%C3%B3n",
+      "status": "ok",
+      "title": "Amortización - Wikipedia, la enciclopedia libre",
+      "text_chars": 11704,
+      "error": null,
+      "file": "raw/amortizacion.md"
+    },
+    {
+      "id": "devengo",
+      "topic": "principios",
+      "url": "https://es.wikipedia.org/wiki/Devengo",
+      "status": "ok",
+      "title": "Devengo - Wikipedia, la enciclopedia libre",
+      "text_chars": 7315,
+      "error": null,
+      "file": "raw/devengo.md"
+    },
+    {
+      "id": "niif",
+      "topic": "normativa",
+      "url": "https://es.wikipedia.org/wiki/Normas_Internacionales_de_Informaci%C3%B3n_Financiera",
+      "status": "ok",
+      "title": "Normas Internacionales de Información Financiera - Wikipedia, la enciclopedia libre",
+      "text_chars": 9200,
+      "error": null,
+      "file": "raw/niif.md"
+    },
+    {
+      "id": "auditoria_contable",
+      "topic": "auditoria",
+      "url": "https://es.wikipedia.org/wiki/Auditor%C3%ADa_financiera",
+      "status": "ok",
+      "title": "Auditoría contable - Wikipedia, la enciclopedia libre",
+      "text_chars": 14789,
+      "error": null,
+      "file": "raw/auditoria_contable.md"
     }
   ]
 }

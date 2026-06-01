@@ -3,7 +3,7 @@
 - source_id: contabilidad_intro
 - topic: fundamentos
 - url: https://es.wikipedia.org/wiki/Contabilidad
-- extracted_at_utc: 2026-06-01T02:06:23.310688+00:00
+- extracted_at_utc: 2026-06-01T02:09:39.911179+00:00
 
 La es una disciplina de las que tiene por objeto el estudio, medición, registro y análisis del y de la situación , económica y financiera de una entidad, ya sea una empresa, organización o persona. Su finalidad es proporcionar información estructurada, fiable y relevante que facilite la internas y el control externo de la gestión.
 La información contable, previamente registrada y organizada de forma , se presenta en informes y que resultan útiles para las distintas , tales como accionistas, administradores, empleados, acreedores, organismos reguladores y otras entidades externas.

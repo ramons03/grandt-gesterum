@@ -1,0 +1,16 @@
+{
+  "sources": [
+    { "id": "saas_definition", "topic": "fundamentos_saas", "url": "https://en.wikipedia.org/wiki/Software_as_a_service" },
+    { "id": "go_to_market_strategy", "topic": "go_to_market", "url": "https://en.wikipedia.org/wiki/Go-to-market_strategy" },
+    { "id": "customer_acquisition_cost", "topic": "unit_economics", "url": "https://en.wikipedia.org/wiki/Customer_acquisition_cost" },
+    { "id": "customer_lifetime_value", "topic": "unit_economics", "url": "https://en.wikipedia.org/wiki/Customer_lifetime_value" },
+    { "id": "churn_rate", "topic": "retention", "url": "https://en.wikipedia.org/wiki/Churn_rate" },
+    { "id": "net_promoter_score", "topic": "retention", "url": "https://en.wikipedia.org/wiki/Net_promoter_score" },
+    { "id": "subscription_model", "topic": "pricing", "url": "https://en.wikipedia.org/wiki/Subscription_business_model" },
+    { "id": "mrr_arr", "topic": "pricing", "url": "https://www.chargebee.com/resources/guides/saas-metrics/" },
+    { "id": "pricing", "topic": "pricing", "url": "https://en.wikipedia.org/wiki/Pricing" },
+    { "id": "market_segmentation", "topic": "go_to_market", "url": "https://en.wikipedia.org/wiki/Market_segmentation" },
+    { "id": "value_proposition", "topic": "go_to_market", "url": "https://en.wikipedia.org/wiki/Value_proposition" },
+    { "id": "payback_period", "topic": "unit_economics", "url": "https://en.wikipedia.org/wiki/Payback_period" }
+  ]
+}

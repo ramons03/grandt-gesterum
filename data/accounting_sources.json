@@ -1,29 +1,16 @@
 {
   "sources": [
-    {
-      "id": "contabilidad_intro",
-      "topic": "fundamentos",
-      "url": "https://es.wikipedia.org/wiki/Contabilidad"
-    },
-    {
-      "id": "partida_doble",
-      "topic": "principios",
-      "url": "https://es.wikipedia.org/wiki/Partida_doble"
-    },
-    {
-      "id": "libro_diario",
-      "topic": "libros_contables",
-      "url": "https://es.wikipedia.org/wiki/Libro_diario"
-    },
-    {
-      "id": "balance_general",
-      "topic": "estados_financieros",
-      "url": "https://es.wikipedia.org/wiki/Balance_general"
-    },
-    {
-      "id": "estado_resultados",
-      "topic": "estados_financieros",
-      "url": "https://es.wikipedia.org/wiki/Estado_de_resultados"
-    }
+    { "id": "contabilidad_intro", "topic": "fundamentos", "url": "https://es.wikipedia.org/wiki/Contabilidad" },
+    { "id": "partida_doble", "topic": "principios", "url": "https://es.wikipedia.org/wiki/Partida_doble" },
+    { "id": "libro_diario", "topic": "libros_contables", "url": "https://es.wikipedia.org/wiki/Libro_diario" },
+    { "id": "libro_mayor", "topic": "libros_contables", "url": "https://es.wikipedia.org/wiki/Libro_mayor" },
+    { "id": "balance_general", "topic": "estados_financieros", "url": "https://es.wikipedia.org/wiki/Balance_general" },
+    { "id": "estado_resultados", "topic": "estados_financieros", "url": "https://es.wikipedia.org/wiki/Estado_de_resultados" },
+    { "id": "estado_flujo_efectivo", "topic": "estados_financieros", "url": "https://es.wikipedia.org/wiki/Estado_de_flujo_de_efectivo" },
+    { "id": "activo_pasivo_patrimonio", "topic": "fundamentos", "url": "https://es.wikipedia.org/wiki/Patrimonio_neto" },
+    { "id": "amortizacion", "topic": "ajustes", "url": "https://es.wikipedia.org/wiki/Amortizaci%C3%B3n" },
+    { "id": "devengo", "topic": "principios", "url": "https://es.wikipedia.org/wiki/Devengo" },
+    { "id": "niif", "topic": "normativa", "url": "https://es.wikipedia.org/wiki/Normas_Internacionales_de_Informaci%C3%B3n_Financiera" },
+    { "id": "auditoria_contable", "topic": "auditoria", "url": "https://es.wikipedia.org/wiki/Auditor%C3%ADa_financiera" }
   ]
 }

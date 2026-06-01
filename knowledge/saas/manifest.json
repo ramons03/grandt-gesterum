@@ -1,0 +1,126 @@
+{
+  "generated_at_utc": "2026-06-01T02:09:39.925886+00:00",
+  "total_sources": 12,
+  "items": [
+    {
+      "id": "saas_definition",
+      "topic": "fundamentos_saas",
+      "url": "https://en.wikipedia.org/wiki/Software_as_a_service",
+      "status": "ok",
+      "title": "Software as a service - Wikipedia",
+      "text_chars": 12545,
+      "error": null,
+      "file": "raw/saas_definition.md"
+    },
+    {
+      "id": "go_to_market_strategy",
+      "topic": "go_to_market",
+      "url": "https://en.wikipedia.org/wiki/Go-to-market_strategy",
+      "status": "ok",
+      "title": "Go-to-market strategy - Wikipedia",
+      "text_chars": 5384,
+      "error": null,
+      "file": "raw/go_to_market_strategy.md"
+    },
+    {
+      "id": "customer_acquisition_cost",
+      "topic": "unit_economics",
+      "url": "https://en.wikipedia.org/wiki/Customer_acquisition_cost",
+      "status": "ok",
+      "title": "Customer acquisition cost - Wikipedia",
+      "text_chars": 2775,
+      "error": null,
+      "file": "raw/customer_acquisition_cost.md"
+    },
+    {
+      "id": "customer_lifetime_value",
+      "topic": "unit_economics",
+      "url": "https://en.wikipedia.org/wiki/Customer_lifetime_value",
+      "status": "ok",
+      "title": "Customer lifetime value - Wikipedia",
+      "text_chars": 13719,
+      "error": null,
+      "file": "raw/customer_lifetime_value.md"
+    },
+    {
+      "id": "churn_rate",
+      "topic": "retention",
+      "url": "https://en.wikipedia.org/wiki/Churn_rate",
+      "status": "ok",
+      "title": "Churn rate - Wikipedia",
+      "text_chars": 5380,
+      "error": null,
+      "file": "raw/churn_rate.md"
+    },
+    {
+      "id": "net_promoter_score",
+      "topic": "retention",
+      "url": "https://en.wikipedia.org/wiki/Net_promoter_score",
+      "status": "ok",
+      "title": "Net promoter score - Wikipedia",
+      "text_chars": 5447,
+      "error": null,
+      "file": "raw/net_promoter_score.md"
+    },
+    {
+      "id": "subscription_model",
+      "topic": "pricing",
+      "url": "https://en.wikipedia.org/wiki/Subscription_business_model",
+      "status": "ok",
+      "title": "Subscription business model - Wikipedia",
+      "text_chars": 11476,
+      "error": null,
+      "file": "raw/subscription_model.md"
+    },
+    {
+      "id": "mrr_arr",
+      "topic": "pricing",
+      "url": "https://www.chargebee.com/resources/guides/saas-metrics/",
+      "status": "ok",
+      "title": "Important SaaS Metrics to track at every stage of your business",
+      "text_chars": 13222,
+      "error": null,
+      "file": "raw/mrr_arr.md"
+    },
+    {
+      "id": "pricing",
+      "topic": "pricing",
+      "url": "https://en.wikipedia.org/wiki/Pricing",
+      "status": "ok",
+      "title": "Pricing - Wikipedia",
+      "text_chars": 35271,
+      "error": null,
+      "file": "raw/pricing.md"
+    },
+    {
+      "id": "market_segmentation",
+      "topic": "go_to_market",
+      "url": "https://en.wikipedia.org/wiki/Market_segmentation",
+      "status": "ok",
+      "title": "Market segmentation - Wikipedia",
+      "text_chars": 43480,
+      "error": null,
+      "file": "raw/market_segmentation.md"
+    },
+    {
+      "id": "value_proposition",
+      "topic": "go_to_market",
+      "url": "https://en.wikipedia.org/wiki/Value_proposition",
+      "status": "ok",
+      "title": "Value proposition - Wikipedia",
+      "text_chars": 7582,
+      "error": null,
+      "file": "raw/value_proposition.md"
+    },
+    {
+      "id": "payback_period",
+      "topic": "unit_economics",
+      "url": "https://en.wikipedia.org/wiki/Payback_period",
+      "status": "ok",
+      "title": "Payback period - Wikipedia",
+      "text_chars": 4910,
+      "error": null,
+      "file": "raw/payback_period.md"
+    }
+  ]
+}

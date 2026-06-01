@@ -3,7 +3,7 @@
 - source_id: partida_doble
 - topic: principios
 - url: https://es.wikipedia.org/wiki/Partida_doble
-- extracted_at_utc: 2026-06-01T02:06:23.310688+00:00
+- extracted_at_utc: 2026-06-01T02:09:39.911179+00:00
 
 La o es el método más generalizado de la moderna. Consiste en realizar una doble anotación, una en una donde entra el importe o (el ) y otra en la que sale (el ). Esto quiere decir que en todo la suma de los débitos debe ser igual a la suma de los créditos. La partida doble fue gestada por contables ya desde el ,aunque el sistema en su forma completa moderna apareció más tarde en el o con los libros de los Massari de Génova o de Andrea Barbarigo.
 Según la definición debida a ,la cual es una de las más aceptadas, '"la contabilidad por partida doble debe su nombre al hecho de que cada asiento del da lugar a la inscripción de dos partidas o asientos en el , una de ellas al debe y la otra al haber. Pero, esta condición no es suficiente por sí misma: es necesario también que el importe asentado en el debe sea igual que el asentado en el haber y que todas las cantidades estén expresadas en la misma unidad monetaria que sirva de medida común. En consecuencia, cuando se sume el debe y el haber del libro mayor, los totales deberán ser necesariamente iguales, si las anotaciones han sido efectuadas con exactitud". Por lo tanto, no basta que las cuentas se presenten en dos columnas: cada partida en el debe tiene que tener su contrapartida en el haber.

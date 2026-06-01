@@ -3,7 +3,7 @@
 - source_id: balance_general
 - topic: estados_financieros
 - url: https://es.wikipedia.org/wiki/Balance_general
-- extracted_at_utc: 2026-06-01T02:06:23.310688+00:00
+- extracted_at_utc: 2026-06-01T02:09:39.911179+00:00
 
 El , o es un informe financiero contable que refleja la situación económica y financiera de una empresa en un momento determinado.
 El estado de situación financiera se estructura a través de tres conceptos patrimoniales, el , el y el , desarrollados cada uno de ellos en grupos de cuentas que representan los diferentes elementos patrimoniales.

@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "id": "contabilidad_intro",
+      "topic": "fundamentos",
+      "url": "https://es.wikipedia.org/wiki/Contabilidad"
+    },
+    {
+      "id": "partida_doble",
+      "topic": "principios",
+      "url": "https://es.wikipedia.org/wiki/Partida_doble"
+    },
+    {
+      "id": "libro_diario",
+      "topic": "libros_contables",
+      "url": "https://es.wikipedia.org/wiki/Libro_diario"
+    },
+    {
+      "id": "balance_general",
+      "topic": "estados_financieros",
+      "url": "https://es.wikipedia.org/wiki/Balance_general"
+    },
+    {
+      "id": "estado_resultados",
+      "topic": "estados_financieros",
+      "url": "https://es.wikipedia.org/wiki/Estado_de_resultados"
+    }
+  ]
+}

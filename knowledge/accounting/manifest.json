@@ -1,0 +1,56 @@
+{
+  "generated_at_utc": "2026-06-01T02:06:23.310688+00:00",
+  "total_sources": 5,
+  "items": [
+    {
+      "id": "contabilidad_intro",
+      "topic": "fundamentos",
+      "url": "https://es.wikipedia.org/wiki/Contabilidad",
+      "status": "ok",
+      "title": "Contabilidad - Wikipedia, la enciclopedia libre",
+      "text_chars": 26642,
+      "error": null,
+      "file": "raw/contabilidad_intro.md"
+    },
+    {
+      "id": "partida_doble",
+      "topic": "principios",
+      "url": "https://es.wikipedia.org/wiki/Partida_doble",
+      "status": "ok",
+      "title": "Partida doble - Wikipedia, la enciclopedia libre",
+      "text_chars": 5218,
+      "error": null,
+      "file": "raw/partida_doble.md"
+    },
+    {
+      "id": "libro_diario",
+      "topic": "libros_contables",
+      "url": "https://es.wikipedia.org/wiki/Libro_diario",
+      "status": "ok",
+      "title": "Libro diario (contabilidad) - Wikipedia, la enciclopedia libre",
+      "text_chars": 1443,
+      "error": null,
+      "file": "raw/libro_diario.md"
+    },
+    {
+      "id": "balance_general",
+      "topic": "estados_financieros",
+      "url": "https://es.wikipedia.org/wiki/Balance_general",
+      "status": "ok",
+      "title": "Balance general - Wikipedia, la enciclopedia libre",
+      "text_chars": 3966,
+      "error": null,
+      "file": "raw/balance_general.md"
+    },
+    {
+      "id": "estado_resultados",
+      "topic": "estados_financieros",
+      "url": "https://es.wikipedia.org/wiki/Estado_de_resultados",
+      "status": "ok",
+      "title": "Estado de resultados - Wikipedia, la enciclopedia libre",
+      "text_chars": 5673,
+      "error": null,
+      "file": "raw/estado_resultados.md"
+    }
+  ]
+}

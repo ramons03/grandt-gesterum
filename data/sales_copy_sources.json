@@ -1,0 +1,10 @@
+{
+  "sources": [
+    { "id": "copywriting", "topic": "copy", "url": "https://en.wikipedia.org/wiki/Copywriting" },
+    { "id": "sales_process", "topic": "sales", "url": "https://en.wikipedia.org/wiki/Sales_process" },
+    { "id": "solution_selling", "topic": "sales", "url": "https://en.wikipedia.org/wiki/Solution_selling" },
+    { "id": "personal_selling", "topic": "sales", "url": "https://en.wikipedia.org/wiki/Personal_selling" },
+    { "id": "cold_email", "topic": "outreach", "url": "https://en.wikipedia.org/wiki/Cold_email" },
+    { "id": "value_based_pricing", "topic": "pricing", "url": "https://en.wikipedia.org/wiki/Value-based_pricing" }
+  ]
+}

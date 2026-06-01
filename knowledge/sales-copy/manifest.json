@@ -1,0 +1,66 @@
+{
+  "generated_at_utc": "2026-06-01T02:19:40.381640+00:00",
+  "total_sources": 6,
+  "items": [
+    {
+      "id": "copywriting",
+      "topic": "copy",
+      "url": "https://en.wikipedia.org/wiki/Copywriting",
+      "status": "ok",
+      "title": "Copywriting - Wikipedia",
+      "text_chars": 9533,
+      "error": null,
+      "file": "raw/copywriting.md"
+    },
+    {
+      "id": "sales_process",
+      "topic": "sales",
+      "url": "https://en.wikipedia.org/wiki/Sales_process",
+      "status": "ok",
+      "title": "Sales process engineering - Wikipedia",
+      "text_chars": 9771,
+      "error": null,
+      "file": "raw/sales_process.md"
+    },
+    {
+      "id": "solution_selling",
+      "topic": "sales",
+      "url": "https://en.wikipedia.org/wiki/Solution_selling",
+      "status": "ok",
+      "title": "Solution selling - Wikipedia",
+      "text_chars": 3763,
+      "error": null,
+      "file": "raw/solution_selling.md"
+    },
+    {
+      "id": "personal_selling",
+      "topic": "sales",
+      "url": "https://en.wikipedia.org/wiki/Personal_selling",
+      "status": "ok",
+      "title": "Personal selling - Wikipedia",
+      "text_chars": 13799,
+      "error": null,
+      "file": "raw/personal_selling.md"
+    },
+    {
+      "id": "cold_email",
+      "topic": "outreach",
+      "url": "https://en.wikipedia.org/wiki/Cold_email",
+      "status": "ok",
+      "title": "Cold email - Wikipedia",
+      "text_chars": 1449,
+      "error": null,
+      "file": "raw/cold_email.md"
+    },
+    {
+      "id": "value_based_pricing",
+      "topic": "pricing",
+      "url": "https://en.wikipedia.org/wiki/Value-based_pricing",
+      "status": "ok",
+      "title": "Value-based pricing - Wikipedia",
+      "text_chars": 12855,
+      "error": null,
+      "file": "raw/value_based_pricing.md"
+    }
+  ]
+}

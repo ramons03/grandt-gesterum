@@ -1,0 +1,66 @@
+{
+  "generated_at_utc": "2026-06-01T02:19:40.389301+00:00",
+  "total_sources": 6,
+  "items": [
+    {
+      "id": "subscription_business_model",
+      "topic": "business_model",
+      "url": "https://en.wikipedia.org/wiki/Subscription_business_model",
+      "status": "ok",
+      "title": "Subscription business model - Wikipedia",
+      "text_chars": 11476,
+      "error": null,
+      "file": "raw/subscription_business_model.md"
+    },
+    {
+      "id": "upselling",
+      "topic": "growth",
+      "url": "https://en.wikipedia.org/wiki/Upselling",
+      "status": "ok",
+      "title": "Upselling - Wikipedia",
+      "text_chars": 7429,
+      "error": null,
+      "file": "raw/upselling.md"
+    },
+    {
+      "id": "account_based_marketing",
+      "topic": "sales",
+      "url": "https://en.wikipedia.org/wiki/Account-based_marketing",
+      "status": "ok",
+      "title": "Account-based marketing - Wikipedia",
+      "text_chars": 5638,
+      "error": null,
+      "file": "raw/account_based_marketing.md"
+    },
+    {
+      "id": "customer_success",
+      "topic": "retention",
+      "url": "https://en.wikipedia.org/wiki/Customer_success",
+      "status": "ok",
+      "title": "Customer success - Wikipedia",
+      "text_chars": 8855,
+      "error": null,
+      "file": "raw/customer_success.md"
+    },
+    {
+      "id": "retention_marketing",
+      "topic": "retention",
+      "url": "https://en.wikipedia.org/wiki/Customer_retention",
+      "status": "ok",
+      "title": "Customer retention - Wikipedia",
+      "text_chars": 8241,
+      "error": null,
+      "file": "raw/retention_marketing.md"
+    },
+    {
+      "id": "cross_selling",
+      "topic": "pricing",
+      "url": "https://en.wikipedia.org/wiki/Cross-selling",
+      "status": "ok",
+      "title": "Cross-selling - Wikipedia",
+      "text_chars": 3895,
+      "error": null,
+      "file": "raw/cross_selling.md"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "sources": [
+    { "id": "subscription_business_model", "topic": "business_model", "url": "https://en.wikipedia.org/wiki/Subscription_business_model" },
+    { "id": "upselling", "topic": "growth", "url": "https://en.wikipedia.org/wiki/Upselling" },
+    { "id": "account_based_marketing", "topic": "sales", "url": "https://en.wikipedia.org/wiki/Account-based_marketing" },
+    { "id": "customer_success", "topic": "retention", "url": "https://en.wikipedia.org/wiki/Customer_success" },
+    { "id": "retention_marketing", "topic": "retention", "url": "https://en.wikipedia.org/wiki/Customer_retention" },
+    { "id": "cross_selling", "topic": "pricing", "url": "https://en.wikipedia.org/wiki/Cross-selling" }
+  ]
+}
